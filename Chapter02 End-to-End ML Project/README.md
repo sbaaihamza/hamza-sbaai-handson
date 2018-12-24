@@ -1,4 +1,4 @@
-![](./End-to-End ML Project.png)
+# ![alt text](./End-to-End ML Project.png)
 
 # 1 Preprocess
 
