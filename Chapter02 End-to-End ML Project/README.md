@@ -1,4 +1,4 @@
-![](./he%20Machine%20learning%20landscape.png)
+![](./End-to-End ML Project.png)
 
 # 1 Preprocess
 
