@@ -1,4 +1,4 @@
-![](./Process.png)
+![](./he%20Machine%20learning%20landscape.png)
 
 # 1 Preprocess
 
