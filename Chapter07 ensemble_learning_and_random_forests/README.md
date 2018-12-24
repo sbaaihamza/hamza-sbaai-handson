@@ -1,4 +1,4 @@
-![](./EnsembleLearning.png)
+# ![alt text](https://github.com/sbaaihamza/hands_on_ML/blob/master/Chapter07%20ensemble_learning_and_random_forests/Ensemble%20Learning%20and%20Random%20Forests.png)
 
 
 # Exercise
