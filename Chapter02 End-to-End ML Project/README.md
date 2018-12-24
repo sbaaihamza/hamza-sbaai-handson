@@ -1,4 +1,4 @@
-# ![alt text](https://github.com/sbaaihamza/hands_on_ML/blob/master/Chapter01%20ML%20landscape/The%20Machine%20learning%20landscape.png)
+# ![alt text](https://github.com/sbaaihamza/hands_on_ML/blob/master/Chapter02%20End-to-End%20ML%20Project/End-to-End%20ML%20Project.png)
 
 
 # 1 Preprocess
