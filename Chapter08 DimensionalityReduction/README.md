@@ -1,4 +1,6 @@
-![](./DimensionalityReduction.png)
+# ![alt text](https://github.com/sbaaihamza/hands_on_ML/blob/master/Chapter08%20DimensionalityReduction/Dimensionality_Reduction.png)
+
+
 
 # Exercise
 
