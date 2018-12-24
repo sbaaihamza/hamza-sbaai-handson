@@ -1,5 +1,5 @@
+# ![alt text](https://github.com/sbaaihamza/hands_on_ML/blob/master/Chapter05%20Support%20Vector%20Machine/Support%20Vector%20Machine%2B%2B.png)
 
-![](./Support Vector Machine.png)
 # 1 Linear SVM Classification
 
 If your dataset is linearly separable, you should choose _LinearSVC_ in Scikit Learn. That method complexity is $$O(m\times n)$$.
