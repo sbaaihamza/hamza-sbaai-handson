@@ -1,3 +1,5 @@
+# ![alt text](https://github.com/sbaaihamza/hands_on_ML/blob/master/Chapter06%20DecisionTree/Decision%20Tree%2B%2B.png)
+
 # Exercise
 ## 1 
 What is the approximate depth of a Decision Tree trained(without restrictions) on a training set with 
