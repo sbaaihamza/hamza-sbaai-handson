@@ -1,5 +1,5 @@
+# ![alt text](https://github.com/sbaaihamza/hands_on_ML/blob/master/Chapter04%20Training%20Model/Training%20Model.png)
 
-![](./TrainingModel.png)
 
 # 1 Linear Regression
 
