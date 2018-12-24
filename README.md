@@ -10,6 +10,10 @@
 # ![alt text](https://github.com/sbaaihamza/hands_on_ML/blob/master/Chapter05%20Support%20Vector%20Machine/Support%20Vector%20Machine%2B%2B.png)
 # Chapter06 DecisionTree
 # ![alt text](https://github.com/sbaaihamza/hands_on_ML/blob/master/Chapter06%20DecisionTree/Decision%20Tree%2B%2B.png)
+# Chapter07 ensemble_learning_and_random_forests
+# ![alt text](https://github.com/sbaaihamza/hands_on_ML/blob/master/Chapter07%20ensemble_learning_and_random_forests/Ensemble%20Learning%20and%20Random%20Forests.png)
+# Chapter08 DimensionalityReduction
+# ![alt text](https://github.com/sbaaihamza/hands_on_ML/blob/master/Chapter08%20DimensionalityReduction/Dimensionality_Reduction.png)
 
 
 
